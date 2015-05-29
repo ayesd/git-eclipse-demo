@@ -1,7 +1,7 @@
 package me.ayesd.demo.git;
 
 public class HelloWorld {
-	public void static main(){
+	public static void main(String[] args) {
 		
 	}
 }
